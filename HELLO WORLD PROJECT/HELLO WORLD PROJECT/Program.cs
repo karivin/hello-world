@@ -12,7 +12,9 @@ namespace HELLO_WORLD_PROJECT
         {
             Console.WriteLine(Console.ReadLine());
             Console.ReadLine();
-            
+            Console.WriteLine(Console.ReadLine());
+            Console.ReadLine();
+
         }
     }
 }
