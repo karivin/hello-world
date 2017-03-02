@@ -10,6 +10,9 @@ namespace HELLO_WORLD_PROJECT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Console.ReadLine());
+            Console.ReadLine();
+            
         }
     }
 }
